@@ -1,13 +1,13 @@
 # Portfolio
 
-## ABOUT ME:
+## 👩‍💻 ABOUT ME:
 My name is Ewelina. I completed my bachelor's degree in Administration at the Faculty of Law and Administration at UKSW. For nearly 10 years, I worked at the post office as an assistant, where I supported the work of postal workers, responded to complaints and ensured the quality of services provided. Continuous professional development is extremely important to me, which is why I completed a manual tester course with the intention of changing my career path. For over 2 years, I have been actively participating in various courses, workshops, webinars, and mentoring programs, as well as engaging in freelance projects. 
 
 
 Privately, I have three dogs and a cat. I am interested in football and tennis. In my free time, I attend creative workshops such as pottery, macrame, making soaps and candles. I love flowers, forest. My connection with nature gives me peace, relaxation and a sense of being present in the moment.
 
 
-## TOOLS:
+## 🔧 TOOLS:
 - Cypress
 - Postman
 - TestLink
@@ -24,7 +24,7 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 - Wordpress
 - low code/ no code- Webflow, Bubble.io
 
-## TECH SKILS:
+## 💻 TECH SKILS:
 - SQL
 - HTML
 - CSS
@@ -49,7 +49,7 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
  💡 problem-solving skills  
 
 
-## COURSES & CERTIFICATES:
+## 📜 COURSES & CERTIFICATES:
 * 01-03.2022 | Testuj.pl | Manual tester course
 * 01.2022 | Accenture | Assertive Communication Training: "How to talk and effectively refuse?
 * 06.2022 | SJSI | ISTQB Certified Tester Foundation Level
@@ -67,7 +67,7 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 * 07.2024 | Girls Code Fun | JavaScript Workshops from Scratch
 * 08.2024 | Girls Code Fun | Low-code/no-code workshops using Bubble.io
 
-## WEBINARS & MEETUPS & EVENTS:
+## 🗓️ WEBINARS & MEETUPS & EVENTS:
 * 11.05.2023 | Accenture | Accenture Training Labs: Your Beginnings in Cybersecurity
 * 09.11.2023 | Eduamp | Workshop - Testing RestAPI for Beginners Using Postman
 * 05.06.2024 | girls.js | Follow-up - Duckling Hires an Assistant
@@ -85,7 +85,7 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
   - Bring back magic to your testing – life lessons from a professional magician- Grzegorz Niczyporuk
   - Let’s make the Internet accessible for everyone- Dominika Zając
   
-## GROUPS ABOUT TESTING ON FACEBOOK:
+## 🌐 GROUPS ABOUT TESTING ON FACEBOOK:
 ✔️ [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)  
 ✔️ [Testuj, Dziewczyno!](https://www.facebook.com/groups/testujdziewczyno)  
 ✔️ [Tester oprogramowania- wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)  
@@ -94,5 +94,5 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 ✔️ [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)  
 ✔️ [Programuj, dziewczyno!](https://www.facebook.com/groups/programujdziewczyno/)   
 
-## PROJECTS:
+## 📊 PROJECTS:
 :arrow_forward: <a href="https://github.com/ewewis/Projects" target="_blank">My projects</a>
