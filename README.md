@@ -37,16 +37,16 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 - knowledge of syllabus ISTQB Foundation level
 
 ## 🌟 SOFT SKILLS:
-- 🧐 precision and attention to details
-- 🚀 desire for self-development
-- 🗂️ ability to organize independent work, well-organized
-- 💗 empathetic
-- ❓ curiosity and inquisitiveness
-- 📚 ability to learn new tools, systems and processes quickly
-- 🔥 commitment
-- 🛡️ responsibility
-- 🔄 flexibility
-- 💡 problem-solving skills
+ 🧐 precision and attention to details
+ 🚀 desire for self-development
+ 🗂️ ability to organize independent work, well-organized
+ 💗 empathetic
+ ❓ curiosity and inquisitiveness
+ 📚 ability to learn new tools, systems and processes quickly
+ 🔥 commitment
+ 🛡️ responsibility
+ 🔄 flexibility
+ 💡 problem-solving skills
 
 
 ## COURSES & CERTIFICATES:
