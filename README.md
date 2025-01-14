@@ -79,7 +79,8 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
   - Ryzyko jako Szansa – zarządzanie ryzykiem w projektach IT- Agnieszka Wilk- Lead IT Product Manager
   - Syndrom oszusta - nie taki straszny, jak go malują- Klaudia Purchała-Przybyła- IT Project Manager/Scrum Master
   - QA 2.0 - Enhancing Testing with AI- Paulina Szeląg- QA Engineer
-  - QAs are the Guardians of Quality, and We Won't Let Nobody Tell Us Otherwise- Joanna Zembaczyńska- QA Team Manager
+  - QAs are the Guardians of Quality, and We Won't Let Nobody Tell Us Otherwise- Joanna Zembaczyńska- QA Team Manager 09
+* 09.10.2024 | CODE:ME | Security Awareness. Bezpieczeństwo w firmie
 * 17.10.2024 | Test Dive Conference 2024:
   - Mobile App Testing- Wojciech Lizakowski
   - Bring back magic to your testing – life lessons from a professional magician- Grzegorz Niczyporuk
