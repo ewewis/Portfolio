@@ -13,6 +13,7 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 - TestLink
 - TestRail
 - DevTools
+- BrowserStack
 - Visual Studio Code
 - JIRA
 - Mantis
@@ -29,9 +30,9 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 - HTML
 - CSS
 - JavaScript basics
-- Creating test cases
+- Creating test cases and test scenarios
 - Reporting bugs
-- Basics of working in SCRUM methodology
+- working in SCRUM methodology
 - REST API testing
 - automated testing
 - knowledge of syllabus ISTQB Foundation level
@@ -66,6 +67,7 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 * 04-07.2024 | Centralny Ośrodek Informatyki | New Us in IT - Nowi my w IT
 * 07.2024 | Girls Code Fun | JavaScript Workshops from Scratch
 * 08.2024 | Girls Code Fun | Low-code/no-code workshops using Bubble.io
+* 01.2025 | Future Collars | AI National Skills powered by Microsoft 
 
 ## 🗓️ WEBINARS & MEETUPS & EVENTS:
 * 11.05.2023 | Accenture | Accenture Training Labs: Your Beginnings in Cybersecurity
@@ -85,6 +87,8 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
   - Mobile App Testing- Wojciech Lizakowski
   - Bring back magic to your testing – life lessons from a professional magician- Grzegorz Niczyporuk
   - Let’s make the Internet accessible for everyone- Dominika Zając
+* 15.01.2025 | Future Collars | Basics of Artificial Intelligence: From History to Machine Learning
+* 17.01.2025 | Grupa ADM | Fault and Hacker Detection in Networks
   
 ## 🌐 GROUPS ABOUT TESTING ON FACEBOOK:
 ✔️ [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)  
