@@ -89,6 +89,9 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
   - Let’s make the Internet accessible for everyone- Dominika Zając
 * 15.01.2025 | Future Collars | Basics of Artificial Intelligence: From History to Machine Learning
 * 17.01.2025 | Grupa ADM | Fault and Hacker Detection in Networks
+* 08-23.01.2025 | Altkom | Altkom Innovation Stream
+* 21-30.01.2025 | Fabryka testów | Konferencja dla testerów BugHuntFest vol.2
+* 29.01.2025 | Future Mind | Cyfrowy świat dostępny dla wszystkich: Jak EAA zmieni Twoją aplikację w 2025?
   
 ## 🌐 GROUPS ABOUT TESTING ON FACEBOOK:
 ✔️ [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)  
