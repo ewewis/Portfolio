@@ -50,24 +50,34 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
  💡 problem-solving skills  
 
 
-## 📜 COURSES & CERTIFICATES:
-* 01-03.2022 | Testuj.pl | Manual tester course
-* 01.2022 | Accenture | Assertive Communication Training: "How to talk and effectively refuse?
-* 06.2022 | SJSI | ISTQB Certified Tester Foundation Level
-* 08.2022 | Polska Fundacja Przedsiębiorczości | Best Practices for Creating an Effective Website
-* 09.2022 | Polska Fundacja Przedsiębiorczości | Agile – agile team, agile project
-* 11.2022 | Polska Fundacja Przedsiębiorczości | Plan your project with Trello.com
-* 11.2022 | Polska Fundacja Przedsiębiorczości | English for IT
-* 04.2023 | Centalny Ośrodek Informatyki | New You in IT - Nowa Ty w IT
-* 05.2023 | Udemy | Postman from scratch-REST API testing
-* 07.2023 | Polska Fundacja Przedsiębiorczości | Creating Websites Without Coding – No-Code Technology and AI
-* 07.2023 | Polska Fundacja Przedsiębiorczości | SQL Basics Part 1
-* 08.2023 | Polska Fundacja Przedsiębiorczości | Roles in IT - Which One Is Right for Me?
-* 03-04.2024 | INCO ACADEMY | Get Into TECH
-* 04-07.2024 | Centralny Ośrodek Informatyki | New Us in IT - Nowi my w IT
-* 07.2024 | Girls Code Fun | JavaScript Workshops from Scratch
-* 08.2024 | Girls Code Fun | Low-code/no-code workshops using Bubble.io
-* 01.2025 | Future Collars | AI National Skills powered by Microsoft 
+## 🎓 Courses & Certificates
+
+### 📌 Software Testing
+- 🏆 **ISTQB Certified Tester Foundation Level** – SJSI (06.2022)  
+- 🔥 **Postman from Scratch - REST API Testing** – Udemy (05.2023)  
+- ✅ **Manual Tester Course** – Testuj.pl (01-03.2022)  
+
+### 💻 Technologies & Programming
+- 🚀 **JavaScript Workshops from Scratch** – Girls Code Fun (07.2024)  
+- 🛠 **Low-Code/No-Code Workshops Using Bubble.io** – Girls Code Fun (08.2024)  
+- 🖥 **SQL Basics Part 1** – Polska Fundacja Przedsiębiorczości (07.2023)  
+- 🌐 **Creating Websites Without Coding – No-Code Technology and AI** – Polska Fundacja Przedsiębiorczości (07.2023)  
+- 🏅 **Best Practices for Creating an Effective Website** – Polska Fundacja Przedsiębiorczości (08.2022)  
+
+### 📈 Methodologies & Tools
+- ⚡ **Agile – Agile Team, Agile Project** – Polska Fundacja Przedsiębiorczości (09.2022)  
+- 📊 **Plan Your Project with Trello.com** – Polska Fundacja Przedsiębiorczości (11.2022)  
+- 🏗 **Roles in IT - Which One Is Right for Me?** – Polska Fundacja Przedsiębiorczości (08.2023)  
+
+### 🌟 Personal Development & Communication
+- 🎤 **Assertive Communication Training: "How to Talk and Effectively Refuse?"** – Accenture (01.2022)  
+- 🇬🇧 **English for IT** – Polska Fundacja Przedsiębiorczości (11.2022)  
+
+### 🔥 Training Programs
+- 🚀 **New You in IT - Nowa Ty w IT** – Centralny Ośrodek Informatyki (04.2023)  
+- 🌍 **Get Into TECH** – INCO ACADEMY (03-04.2024)  
+- 🤝 **New Us in IT - Nowi my w IT** – Centralny Ośrodek Informatyki (04-07.2024)  
+- 🤖 **AI National Skills Powered by Microsoft** – Future Collars (01.2025)  
 
 ## 🗓️ WEBINARS & MEETUPS & EVENTS:
 * 11.05.2023 | Accenture | Accenture Training Labs: Your Beginnings in Cybersecurity
