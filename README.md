@@ -16,6 +16,7 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 - BrowserStack
 - Visual Studio Code
 - JIRA
+- Xray
 - Mantis
 - Trello
 - Slack
@@ -53,31 +54,31 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 ## 🎓 Courses & Certificates
 
 ### 📌 Software Testing
-- 🏆 **ISTQB Certified Tester Foundation Level** – SJSI (06.2022)  
-- 🔥 **Postman from Scratch - REST API Testing** – Udemy (05.2023)  
-- ✅ **Manual Tester Course** – Testuj.pl (01-03.2022)  
+- **ISTQB Certified Tester Foundation Level** – SJSI (06.2022)  
+- **Postman from Scratch - REST API Testing** – Udemy (05.2023)  
+- **Manual Tester Course** – Testuj.pl (01-03.2022)  
 
 ### 💻 Technologies & Programming
-- 🚀 **JavaScript Workshops from Scratch** – Girls Code Fun (07.2024)  
-- 🛠 **Low-Code/No-Code Workshops Using Bubble.io** – Girls Code Fun (08.2024)  
-- 🖥 **SQL Basics Part 1** – Polska Fundacja Przedsiębiorczości (07.2023)  
-- 🌐 **Creating Websites Without Coding – No-Code Technology and AI** – Polska Fundacja Przedsiębiorczości (07.2023)  
-- 🏅 **Best Practices for Creating an Effective Website** – Polska Fundacja Przedsiębiorczości (08.2022)  
+- **JavaScript Workshops from Scratch** – Girls Code Fun (07.2024)  
+- **Low-Code/No-Code Workshops Using Bubble.io** – Girls Code Fun (08.2024)  
+- **SQL Basics Part 1** – Polska Fundacja Przedsiębiorczości (07.2023)  
+- **Creating Websites Without Coding – No-Code Technology and AI** – Polska Fundacja Przedsiębiorczości (07.2023)  
+- **Best Practices for Creating an Effective Website** – Polska Fundacja Przedsiębiorczości (08.2022)  
 
 ### 📈 Methodologies & Tools
-- ⚡ **Agile – Agile Team, Agile Project** – Polska Fundacja Przedsiębiorczości (09.2022)  
-- 📊 **Plan Your Project with Trello.com** – Polska Fundacja Przedsiębiorczości (11.2022)  
-- 🏗 **Roles in IT - Which One Is Right for Me?** – Polska Fundacja Przedsiębiorczości (08.2023)  
+- **Agile – Agile Team, Agile Project** – Polska Fundacja Przedsiębiorczości (09.2022)  
+- **Plan Your Project with Trello.com** – Polska Fundacja Przedsiębiorczości (11.2022)  
+- **Roles in IT - Which One Is Right for Me?** – Polska Fundacja Przedsiębiorczości (08.2023)  
 
 ### 🌟 Personal Development & Communication
-- 🎤 **Assertive Communication Training: "How to Talk and Effectively Refuse?"** – Accenture (01.2022)  
-- 🇬🇧 **English for IT** – Polska Fundacja Przedsiębiorczości (11.2022)  
+- **Assertive Communication Training: "How to Talk and Effectively Refuse?"** – Accenture (01.2022)  
+- **English for IT** – Polska Fundacja Przedsiębiorczości (11.2022)  
 
 ### 🔥 Training Programs
-- 🚀 **New You in IT - Nowa Ty w IT** – Centralny Ośrodek Informatyki (04.2023)  
-- 🌍 **Get Into TECH** – INCO ACADEMY (03-04.2024)  
-- 🤝 **New Us in IT - Nowi my w IT** – Centralny Ośrodek Informatyki (04-07.2024)  
-- 🤖 **AI National Skills Powered by Microsoft** – Future Collars (01.2025)  
+- **New You in IT - Nowa Ty w IT** – Centralny Ośrodek Informatyki (04.2023)  
+- **Get Into TECH** – INCO ACADEMY (03-04.2024)  
+- **New Us in IT - Nowi my w IT** – Centralny Ośrodek Informatyki (04-07.2024)  
+- **AI National Skills Powered by Microsoft** – Future Collars (01.2025)  
 
 ## 🗓️ WEBINARS & MEETUPS & EVENTS:
 * 11.05.2023 | Accenture | Accenture Training Labs: Your Beginnings in Cybersecurity
@@ -91,7 +92,7 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
   - Ryzyko jako Szansa – zarządzanie ryzykiem w projektach IT- Agnieszka Wilk- Lead IT Product Manager
   - Syndrom oszusta - nie taki straszny, jak go malują- Klaudia Purchała-Przybyła- IT Project Manager/Scrum Master
   - QA 2.0 - Enhancing Testing with AI- Paulina Szeląg- QA Engineer
-  - QAs are the Guardians of Quality, and We Won't Let Nobody Tell Us Otherwise- Joanna Zembaczyńska- QA Team Manager 09
+  - QAs are the Guardians of Quality, and We Won't Let Nobody Tell Us Otherwise- Joanna Zembaczyńska- QA Team Manager 
 * 09.10.2024 | CODE:ME | Security Awareness. Bezpieczeństwo w firmie
 * 17.10.2024 | Test Dive Conference 2024:
   - Mobile App Testing- Wojciech Lizakowski
