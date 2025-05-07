@@ -78,6 +78,11 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
   
 
 ## 🗓️ WEBINARS & MEETUPS & EVENTS:
+* 20.03.2025 | WOMEN TECHSTYLE | Women TechStyle Summit 2025
+  - Data Quality – the nightmare of every Data Scientist - Natalia Cheba - Data Scientist - Mentor Data Science
+  - A Digital World Without Barriers - on Digital Accessibility Testing - Magdalena Listwan - Quality Assurance Specialist
+  - You Don’t Have to Be a Good Girl – What Holds Us Back in Professional Development - Klaudia Purchała-Przybyła - IT Project Management
+  - Code Without Barriers – Accessibility Through the Eyes of a Developer - Brygida Fiejdasz - Frontend Competence Leader
 * 29.01.2025 | Future Mind | A Digital World Accessible to All: How Will EAA Transform Your App in 2025?
 * 21-30.01.2025 | Fabryka testów | BugHuntFest Vol. 2 – Conference for Testers
 * 08-23.01.2025 | Altkom | Altkom Innovation Stream
