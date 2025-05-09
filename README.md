@@ -1,20 +1,33 @@
 # Portfolio
 
-<h2 align="center">📌 Menu</h2>
+<h2 align="center">📌 MENU</h2>
 
 <p align="center">
-  <a href="#about-me">
+  <a href="#-about-me">
     <img src="https://img.shields.io/badge/👩‍💻%20About%20Me-blue?style=for-the-badge" />
   </a>
-  <a href="#skills">
-    <img src="https://img.shields.io/badge/🚀%20Tech%20Skills-green?style=for-the-badge" />
+  <a href="#-tools">
+    <img src="https://img.shields.io/badge/🔧%20Tools-yellow?style=for-the-badge" />
   </a>
-  <a href="#projects">
-    <img src="https://img.shields.io/badge/💼%20Projects-orange?style=for-the-badge" />
+  <a href="#-tech-skills">
+    <img src="https://img.shields.io/badge/💻%20Tech%20Skills-blueviolet?style=for-the-badge" />
   </a>
-
+  <a href="#-soft-skills">
+    <img src="https://img.shields.io/badge/🌟%20Soft%20Skills-pink?style=for-the-badge" />
+  </a>
+  <a href="#-courses--certificates">
+    <img src="https://img.shields.io/badge/🎓%20Courses-orange?style=for-the-badge" />
+  </a>
+  <a href="#-webinars--meetups--events">
+    <img src="https://img.shields.io/badge/🗓️%20Webinars%20&%20Events-lightgrey?style=for-the-badge" />
+  </a>
+  <a href="#-groups-about-testing-on-facebook">
+    <img src="https://img.shields.io/badge/🌐%20Testing%20Groups-green?style=for-the-badge" />
+  </a>
+  <a href="#-projects">
+    <img src="https://img.shields.io/badge/📊%20Projects-critical?style=for-the-badge" />
+  </a>
 </p>
-
 ---
 
 ## 👩‍💻 ABOUT ME:
