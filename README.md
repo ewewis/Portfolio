@@ -28,7 +28,7 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 - Wordpress
 - low code/ no code- Webflow, Bubble.io
 
-## 💻 TECH SKILS:
+## 💻 TECH SKILLS:
 - SQL
 - HTML
 - CSS
