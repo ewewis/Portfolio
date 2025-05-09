@@ -1,14 +1,14 @@
 # Portfolio
 
 <p align="center">
-  <a href="#-about-me">About Me</a> 🔹 
-  <a href="#-tools">Tools</a> 🔹 
-  <a href="#-tech-skills">Tech Skills</a> 🔹 
-  <a href="#-soft-skills">Soft Skills</a> 🔹 
-  <a href="#-courses--certificates">Courses & Certificates</a> 🔹 
-  <a href="#-webinars--meetups--events">Webinars & Meetups</a> 🔹 
-  <a href="#-groups-about-testing-on-facebook">Groups</a> 🔹 
-  <a href="#-projects">Projects</a>
+  <a href="#-about-me">ABOUT ME</a> 🔹 
+  <a href="#-tools">TOOLS</a> 🔹 
+  <a href="#-tech-skills">TECH SKILLS</a> 🔹 
+  <a href="#-soft-skills">SOFT SKILLS</a> 🔹 
+  <a href="#-courses--certificates">COURSES & CERTIFICATES</a> 🔹 
+  <a href="#-webinars--meetups--events">WEBINARS & MEETUPS</a> 🔹 
+  <a href="#-groups-about-testing-on-facebook">GROUPS</a> 🔹 
+  <a href="#-projects">PROJECTS</a>
 </p>
 
 
