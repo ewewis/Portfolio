@@ -1,9 +1,9 @@
 # Portfolio
 
 ## Menu
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
+- [About Me](#-about-me)
+- [Skills](#-skills)
+- [Projects](#-projects)
 
 ## 👩‍💻 ABOUT ME:
 My name is Ewelina. I completed my bachelor's degree in Administration at the Faculty of Law and Administration at UKSW. For nearly 10 years, I worked at the post office as an assistant, where I supported the work of postal workers, responded to complaints and ensured the quality of services provided. Continuous professional development is extremely important to me, which is why I completed a manual tester course with the intention of changing my career path. For over 2 years, I have been actively participating in various courses, workshops, webinars, and mentoring programs, as well as engaging in freelance projects. 
