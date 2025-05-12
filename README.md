@@ -87,6 +87,7 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 - **Get Into TECH** – INCO ACADEMY (03-04.2024)  
 - **New Us in IT - Nowi my w IT** – Centralny Ośrodek Informatyki (04-07.2024)  
 - **AI National Skills Powered by Microsoft** – Future Collars (01.2025)
+- **Skills of Tomorrow: AI** - Google (03.2025)
   
 
 ## 🗓️ WEBINARS & MEETUPS & EVENTS:
@@ -95,6 +96,7 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
   - A Digital World Without Barriers - on Digital Accessibility Testing - Magdalena Listwan - Quality Assurance Specialist
   - You Don’t Have to Be a Good Girl – What Holds Us Back in Professional Development - Klaudia Purchała-Przybyła - IT Project Management
   - Code Without Barriers – Accessibility Through the Eyes of a Developer - Brygida Fiejdasz - Frontend Competence Leader
+* 19.03.2025 | Wydawnictwo Helion | Digital accessibility in 2025. Prepare for upcoming changes and design responsibly. - Wojciech Kutyła
 * 29.01.2025 | Future Mind | A Digital World Accessible to All: How Will EAA Transform Your App in 2025?
 * 21-30.01.2025 | Fabryka testów | BugHuntFest Vol. 2 – Conference for Testers
 * 08-23.01.2025 | Altkom | Altkom Innovation Stream
