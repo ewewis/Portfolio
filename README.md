@@ -88,6 +88,7 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 - **New Us in IT - Nowi my w IT** – Centralny Ośrodek Informatyki (04-07.2024)  
 - **AI National Skills Powered by Microsoft** – Future Collars (01.2025)
 - **Skills of Tomorrow: AI** - Google (03.2025)
+- **AIDEAS – Program for the Development of AI Competencies** - Generator Pomysłów, Politechnika Wrocławska, EIT Tech Talent (05.2025)
   
 
 ## 🗓️ WEBINARS & MEETUPS & EVENTS:
