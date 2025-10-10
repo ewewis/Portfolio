@@ -6,7 +6,7 @@
   <a href="#-tech-skills">TECH SKILLS</a> 🔹 
   <a href="#-soft-skills">SOFT SKILLS</a> 🔹 
   <a href="#-courses--certificates">COURSES & CERTIFICATES</a> 🔹 
-  <a href="#-webinars--meetups--events">WEBINARS & MEETUPS</a> 🔹 
+  <a href="#-webinars--meetups--events">WEBINARS & MEETUPS & EVENTS</a> 🔹 
   <a href="#-groups-about-testing-on-facebook">GROUPS</a> 🔹 
   <a href="#-projects">PROJECTS</a>
 </p>
@@ -92,6 +92,8 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
   
 
 ## 🗓️ WEBINARS & MEETUPS & EVENTS:
+* 18.09.2025 | SOLID.JOBS | Mid is the new junior. How are the requirements for testers changing?
+* 15.09.2025 | SOLID.JOBS | Tester vs. Accessibility: How to Find What Automation Won’t Show You
 * 20.03.2025 | WOMEN TECHSTYLE | Women TechStyle Summit 2025
   - Data Quality – the nightmare of every Data Scientist - Natalia Cheba - Data Scientist - Mentor Data Science
   - A Digital World Without Barriers - on Digital Accessibility Testing - Magdalena Listwan - Quality Assurance Specialist
