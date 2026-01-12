@@ -62,17 +62,19 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 ## 🎓 Courses & Certificates
 
 ### 📌 Software Testing
+- **Manual Tester Course** – Testuj.pl (01-03.2022)  
 - **ISTQB Certified Tester Foundation Level** – SJSI (06.2022)  
 - **Postman from Scratch - REST API Testing** – Udemy (05.2023)  
-- **Manual Tester Course** – Testuj.pl (01-03.2022)  
 
 ### 💻 Technologies & Programming
-- **JavaScript Workshops from Scratch** – Girls Code Fun (07.2024)  
-- **Low-Code/No-Code Workshops Using Bubble.io** – Girls Code Fun (08.2024)  
+- **Best Practices for Creating an Effective Website** – Polska Fundacja Przedsiębiorczości (08.2022)
 - **SQL Basics Part 1** – Polska Fundacja Przedsiębiorczości (07.2023)  
-- **Creating Websites Without Coding – No-Code Technology and AI** – Polska Fundacja Przedsiębiorczości (07.2023)  
-- **Best Practices for Creating an Effective Website** – Polska Fundacja Przedsiębiorczości (08.2022)  
-
+- **Creating Websites Without Coding – No-Code Technology and AI** – Polska Fundacja Przedsiębiorczości (07.2023)
+- **JavaScript Workshops from Scratch** – Girls Code Fun (07.2024)  
+- **Low-Code/No-Code Workshops Using Bubble.io** – Girls Code Fun (08.2024)
+- **Google Data Analytics** - Google (07.2025)
+- **Google Cybersecurity** - Google (12.2025) 
+    
 ### 📈 Methodologies & Tools
 - **Agile – Agile Team, Agile Project** – Polska Fundacja Przedsiębiorczości (09.2022)  
 - **Plan Your Project with Trello.com** – Polska Fundacja Przedsiębiorczości (11.2022)  
@@ -92,6 +94,7 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
   
 
 ## 🗓️ WEBINARS & MEETUPS & EVENTS:
+* 20.11.2025 | Future Collars | Women in IT Day 7th edition
 * 18.09.2025 | SOLID.JOBS | Mid is the new junior. How are the requirements for testers changing?
 * 15.09.2025 | SOLID.JOBS | Tester vs. Accessibility: How to Find What Automation Won’t Show You
 * 20.03.2025 | WOMEN TECHSTYLE | Women TechStyle Summit 2025
