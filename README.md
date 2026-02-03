@@ -95,6 +95,9 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 * 20.11.2025 | Future Collars | Women in IT Day 7th edition
 * 18.09.2025 | SOLID.JOBS | Mid is the new junior. How are the requirements for testers changing?
 * 15.09.2025 | SOLID.JOBS | Tester vs. Accessibility: How to Find What Automation Won’t Show You
+* 10-11.09.2025 | CODE:ME | Software Developer's Week:
+  - AI in testing and accessibility. How to use artificial intelligence when implementing WCAG 2.2? - Aleksandra Migus
+  - How to Make Your Website Heard: Digital Accessibility in Practice - Beata Putkowska
 * 20.03.2025 | WOMEN TECHSTYLE | Women TechStyle Summit 2025
   - Data Quality – the nightmare of every Data Scientist - Natalia Cheba - Data Scientist - Mentor Data Science
   - A Digital World Without Barriers - on Digital Accessibility Testing - Magdalena Listwan - Quality Assurance Specialist
@@ -107,9 +110,9 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 * 17.01.2025 | Grupa ADM | Fault and Hacker Detection in Networks
 * 15.01.2025 | Future Collars | Basics of Artificial Intelligence: From History to Machine Learning
 * 17.10.2024 | Test Dive Conference 2024:
-  - Mobile App Testing- Wojciech Lizakowski
-  - Bring back magic to your testing – life lessons from a professional magician- Grzegorz Niczyporuk
-  - Let’s make the Internet accessible for everyone- Dominika Zając
+  - Mobile App Testing - Wojciech Lizakowski
+  - Bring back magic to your testing – life lessons from a professional magician - Grzegorz Niczyporuk
+  - Let’s make the Internet accessible for everyone - Dominika Zając
 * 09.10.2024 | CODE:ME | Security Awareness. Company Security.
 * 19.09.2024 | WOMEN TECHSTYLE | Women Techstyle Summit 2024-Autumn Edition:
   - Risk as an Opportunity – Risk Management in IT Projects - Agnieszka Wilk - Lead IT Product Manager
