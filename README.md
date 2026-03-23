@@ -71,7 +71,8 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 - **JavaScript Workshops from Scratch** – Girls Code Fun (07.2024)  
 - **Low-Code/No-Code Workshops Using Bubble.io** – Girls Code Fun (08.2024)
 - **Google Data Analytics** - Google (07.2025)
-- **Google Cybersecurity** - Google (12.2025) 
+- **Google Cybersecurity** - Google (12.2025)
+- **DevTools** - Altedu.pl (03.2026)
     
 ### 📈 Methodologies & Tools
 - **Agile – Agile Team, Agile Project** – Polska Fundacja Przedsiębiorczości (09.2022)  
